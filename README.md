@@ -1,2 +1,2 @@
 # Aulas HTML5, Python e PHP
- Repositório para aulas
+ Repositório para aulas de HTML5, Python e PHP
